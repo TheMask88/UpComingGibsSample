@@ -86,3 +86,4 @@ D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.createGig
 D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.ovverideconventions.resources
 D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.popilatateGenreTable.resources
 D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.addforeignNames.resources
+D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.AddNameToApplicationUser.resources
