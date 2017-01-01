@@ -213,6 +213,10 @@
     <Compile Include="Migrations\201701010111111_ovverideconventions.Designer.cs">
       <DependentUpon>201701010111111_ovverideconventions.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201701010118157_popilatateGenreTable.cs" />
+    <Compile Include="Migrations\201701010118157_popilatateGenreTable.Designer.cs">
+      <DependentUpon>201701010118157_popilatateGenreTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -302,6 +306,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201701010111111_ovverideconventions.resx">
       <DependentUpon>201701010111111_ovverideconventions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201701010118157_popilatateGenreTable.resx">
+      <DependentUpon>201701010118157_popilatateGenreTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
