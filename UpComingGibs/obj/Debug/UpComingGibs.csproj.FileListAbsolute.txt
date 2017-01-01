@@ -85,3 +85,4 @@ D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.csproj.GenerateResou
 D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.createGigModel.resources
 D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.ovverideconventions.resources
 D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.popilatateGenreTable.resources
+D:\Projects\UpComingGib\UpComingGibs\obj\Debug\UpComingGibs.Migrations.addforeignNames.resources
